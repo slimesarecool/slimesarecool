@@ -2,7 +2,8 @@
 
 I'm slimesarecool, a programmer who spends his days making games, apps, and more.
 
-<ul>I know lots of programming languages including:
+#### I know lots of programming languages including:
+<ul>
   <li>C++</li>
 </ul>
 
