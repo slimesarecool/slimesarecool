@@ -5,7 +5,17 @@ I'm slimesarecool, a programmer who spends his days making games, apps, and more
 #### I know lots of programming languages including:
 <ul>
   <li>C++</li>
+  <li>Lua</li>
+  <li>Java</li>
+  <li>C#</li>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>Batch</li>
 </ul>
+
+Discord: slimesarepic
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slimesarecool&theme=nord_dark)
 
