@@ -15,7 +15,7 @@ I'm slimesarecool, a programmer who spends his days making games, apps, and more
 
 #### Contact: @slimesarepic(Discord)
 
-
+<br><br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slimesarecool&theme=nord_dark)
 
