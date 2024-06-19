@@ -2,6 +2,10 @@
 
 I'm slimesarecool, a programmer who spends his days making games, apps, and more.
 
+<ul>I know lots of programming languages including:
+  <li>C++</li>
+</ul>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slimesarecool&theme=nord_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slimesarecool&theme=nord_dark)
