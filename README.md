@@ -2,7 +2,10 @@
 
 I'm slimesarecool, a programmer who spends his days making games, apps, and more.
 
-[![Slimesarecool's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimesarecool)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slimesarecool&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slimesarecool&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slimesarecool&theme=nord_dark) 
 
 <!--
 **slimesarecool/slimesarecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
