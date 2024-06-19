@@ -2,7 +2,7 @@
 
 I'm slimesarecool, a programmer who spends his days making games, apps, and more.
 
-https://github-readme-stats.vercel.app/api?username=slimesarecool
+[https://github-readme-stats.vercel.app/api?username=slimesarecool]
 
 
 <!--
