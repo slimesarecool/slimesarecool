@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey 👋
+
+I'm slimesarecool, a programmer who spends his days making games, apps, and more.
+
+[![Slimesarecool's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimesarecool)]
+
 
 <!--
 **slimesarecool/slimesarecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
