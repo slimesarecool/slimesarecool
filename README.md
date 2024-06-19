@@ -17,10 +17,10 @@ I'm slimesarecool, a programmer who spends his days making games, apps, and more
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slimesarecool&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slimesarecool&theme=discord_old_blurple)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slimesarecool&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slimesarecool&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slimesarecool&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slimesarecool&theme=discord_old_blurple) 
 
 <!--
 **slimesarecool/slimesarecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
