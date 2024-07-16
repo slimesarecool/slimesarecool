@@ -1,4 +1,4 @@
-## Hey 👋
+## Hey 👋 
 
 I'm slimesarecool, a programmer who spends his days making games, apps, and more.
 
